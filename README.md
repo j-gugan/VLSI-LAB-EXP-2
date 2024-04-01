@@ -144,6 +144,7 @@ OUTPUT WAVEFORM
 ![magnitude comparator](https://github.com/j-gugan/VLSI-LAB-EXP-2/assets/163828735/e87e53d5-453b-47a6-ae69-c78a155350d8)
 
 
-RESULT
+# RESULT:
+Hence ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR is stimulated and synthesized using Xilinx ISE.
 
 
