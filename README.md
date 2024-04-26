@@ -135,18 +135,35 @@ endmodule
 OUTPUT WAVEFORM
 # ENCODER:
 ![encoder](https://github.com/j-gugan/VLSI-LAB-EXP-2/assets/163828735/3e5947de-613f-4a12-ac7d-9ea028c5b89d)
+# ELABORATED DESIGN:
+![image](https://github.com/j-gugan/VLSI-LAB-EXP-2/assets/163828735/019dbc26-9c95-4d08-bda0-19caf56ecfd2)
+
+
 # DECODER:
 ![decoder](https://github.com/j-gugan/VLSI-LAB-EXP-2/assets/163828735/54562308-bae1-4a3d-aa7a-9cb312bc3db9)
+# ELABORATED DESIGN:
+![image](https://github.com/j-gugan/VLSI-LAB-EXP-2/assets/163828735/2b368a15-e87a-4ac1-8902-759c71c26f7e)
+
 
 # MULTIPLEXER:
 ![multiplexer](https://github.com/j-gugan/VLSI-LAB-EXP-2/assets/163828735/9f6d81c9-b73e-4b7b-a393-89ebb1d4119d)
+# ELABORATED DESIGN:
+![image](https://github.com/j-gugan/VLSI-LAB-EXP-2/assets/163828735/3bb83106-36d9-4d15-a851-cdcf9112805a)
+
 
 # DEMULTIPLEXER:
 
 ![demultiplexer](https://github.com/j-gugan/VLSI-LAB-EXP-2/assets/163828735/f7a059a6-d107-4fa1-8ef3-6de4ea847116)
+# ELABORATED DESIGN:
+![image](https://github.com/j-gugan/VLSI-LAB-EXP-2/assets/163828735/5487e49f-3975-4b0a-8b47-1ebe3eed43c3)
+
+
 # MAGNITUDE COMPARATOR:
 
 ![magnitude comparator](https://github.com/j-gugan/VLSI-LAB-EXP-2/assets/163828735/e87e53d5-453b-47a6-ae69-c78a155350d8)
+# ELABORATED DESIGN:
+![image](https://github.com/j-gugan/VLSI-LAB-EXP-2/assets/163828735/912e8065-5a4c-4165-8651-1d434c5e5171)
+
 
 
 # RESULT:
